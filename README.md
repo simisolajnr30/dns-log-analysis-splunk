@@ -43,6 +43,12 @@ source="dns.log.gz" host="kali" sourcetype="dns_log" | top fqdn, src_ip
 source="dns.log.gz" host="kali" sourcetype="dns_log" fqdn="maliciousdomain.com"
 
 ```
+![DNS Step 1](dns_screenshots/dns_1.png)
+![DNS Step 2](dns_screenshots/dns_2.png)
+![DNS Step 3](dns_screenshots/dns_3.png)
+![DNS Step 4](dns_screenshots/dns_4.png)
+![DNS Step 5](dns_screenshots/dns_5.png)
+
 
 ## Outcome
 
